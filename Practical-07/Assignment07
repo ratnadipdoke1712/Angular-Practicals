@@ -1,4 +1,4 @@
-Assignment 07
+﻿Assignment 07
 // Creat an Angular App to demonstrate the two way data binding.
 //app.component.ts
 import { Component } from '@angular/core';
@@ -16,7 +16,7 @@ import { CommonModule } from '@angular/common';//Provides built-in directives an
 export class AppComponent {
   title = 'Twowaydatabinding';
   name:string = '';
-  surname = 'Pandure';
+  surname = 'Doke';
 }
 
 //app.component.html
